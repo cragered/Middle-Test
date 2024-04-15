@@ -1,0 +1,1 @@
+SELECT MAX(salary) FROM public.employee_table

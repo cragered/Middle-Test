@@ -1,0 +1,1 @@
+SELECT MAX(item) FROM public.item_bought
